@@ -6,5 +6,5 @@ class User < ApplicationRecord
 
   validates :username, uniqueness: true, presence: true
 
-  mount_uploader :user_avatar, UserAvatarUploader
+  mount_uploader :avatar, AvatarUploader
 end
