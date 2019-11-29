@@ -61,4 +61,8 @@ gem 'pry-rails', group: [:development, :test]
 
 gem 'devise'
 
-gem "carrierwave"
+gem 'carrierwave'
+
+gem 'bootstrap-sass'
+
+gem 'jquery-rails'
