@@ -63,6 +63,4 @@ gem 'devise'
 
 gem 'carrierwave'
 
-gem 'bootstrap-sass'
-
 gem 'jquery-rails'
